@@ -1,0 +1,7 @@
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\RepositoryCoreSQLServer.csproj.AssemblyReference.cache
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\_EmptyResource.resources
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\RepositoryCoreSQLServer.csproj.GenerateResource.cache
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\RepositoryCoreSQLServer.csproj.CoreCompileInputs.cache
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\CSharp\1033\infraestrutura.zip
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\infraestrutura.dll
+D:\wesley\myrepos\2.curso-completo-webAPi\Apis\PrimeiraWebApi\infraestrutura\obj\Debug\infraestrutura.pdb
